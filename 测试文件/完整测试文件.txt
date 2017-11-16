@@ -3,7 +3,7 @@ Header Info '' ('')
 		Description = 'ViewDefinition [CoordinationView_V2.0, QuantityTakeOffAddOnView]'
 	ImplementationLevel = '2;1'
 	Name = '项目编号'
-	TimeStamp = '2017-11-10T20:34:51'
+	TimeStamp = '2017-11-16T11:14:41'
 	Set of Authors
 		Author = ''
 	Set of Organizations
@@ -1380,7 +1380,7 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 										'限制条件' (<description>)
 											底部偏移 = 0.000000 Milli Metre 
 											上限 = 标高: -1F 
-											标高 = -1F 
+											标高 = 标高: -1F 
 											高度偏移 = 4000.000000 Milli Metre 
 								IfcSpace '3VAnT5iPn0IhgEIbcFkDYY' '9'
 									geometry
@@ -1491,7 +1491,7 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 										'限制条件' (<description>)
 											底部偏移 = 0.000000 Milli Metre 
 											上限 = 标高: -1F 
-											标高 = -1F 
+											标高 = 标高: -1F 
 											高度偏移 = 4000.000000 Milli Metre 
 								IfcSpace '3VAnT5iPn0IhgEIbcFkDYO' '11'
 									geometry
@@ -1550,7 +1550,7 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 										'限制条件' (<description>)
 											底部偏移 = 0.000000 Milli Metre 
 											上限 = 标高: -1F 
-											标高 = 标高: -1F 
+											标高 = -1F 
 											高度偏移 = 4000.000000 Milli Metre 
 								IfcSpace '3VAnT5iPn0IhgEIbcFkDYR' '12'
 									geometry
@@ -1603,7 +1603,7 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 										'限制条件' (<description>)
 											底部偏移 = 0.000000 Milli Metre 
 											上限 = 标高: -1F 
-											标高 = 标高: -1F 
+											标高 = -1F 
 											高度偏移 = 4000.000000 Milli Metre 
 								IfcSpace '3VAnT5iPn0IhgEIbcFkDYU' '13'
 									geometry
@@ -1721,7 +1721,7 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 										'限制条件' (<description>)
 											底部偏移 = 0.000000 Milli Metre 
 											上限 = 标高: -1F 
-											标高 = 标高: -1F 
+											标高 = -1F 
 											高度偏移 = 4000.000000 Milli Metre 
 								IfcSpace '3VAnT5iPn0IhgEIbcFkDYK' '15'
 									geometry
@@ -1839,7 +1839,7 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 										'限制条件' (<description>)
 											底部偏移 = 0.000000 Milli Metre 
 											上限 = 标高: -1F 
-											标高 = -1F 
+											标高 = 标高: -1F 
 											高度偏移 = 4000.000000 Milli Metre 
 							contains
 								IfcWallStandardCase '2QnAw3wTLCyAIuwIsumGpA' '基本墙:基本墙：普通砖-200mm:206103'
@@ -4805,7 +4805,7 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 										'限制条件' (<description>)
 											上限 = 标高: 1F 
 											底部偏移 = 0.000000 Milli Metre 
-											标高 = 1F 
+											标高 = 标高: 1F 
 											高度偏移 = 4000.000000 Milli Metre 
 								IfcSpace '2u_$MHfiz3IQdiHFBpuF59' '3'
 									geometry
@@ -4826,7 +4826,7 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 											室内净高 = 2.800000 
 											局部净高 = 2.800000 
 											房间功能 = 卧室 
-											窗地面积比 = 0.000000 
+											窗地面积比 = 0.120000 
 											设备布置方式 = 无 
 											采光系数 = 0.020000 
 										'尺寸标注' (<description>)
@@ -4863,7 +4863,7 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 										'限制条件' (<description>)
 											上限 = 标高: 1F 
 											底部偏移 = 0.000000 Milli Metre 
-											标高 = 标高: 1F 
+											标高 = 1F 
 											高度偏移 = 4000.000000 Milli Metre 
 								IfcSpace '114tGQ1RX31g0PqzCYWgAi' '4'
 									geometry
@@ -4937,12 +4937,12 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 											两排设备净距 = 0.000000 
 											类别 = 房间 
 											阶段 ID = 新构造 
-											窗地面积比 = 0.000000 
 											使用面积 = 26.448000 
 											净宽 = 3.800000 
 											室内净高 = 2.800000 
 											局部净高 = 2.800000 
 											房间功能 = 走廊 
+											窗地面积比 = 0.000000 
 											设备布置方式 = 无 
 											采光系数 = 0.000000 
 										'尺寸标注' (<description>)
@@ -4979,7 +4979,7 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 										'限制条件' (<description>)
 											上限 = 标高: 1F 
 											底部偏移 = 0.000000 Milli Metre 
-											标高 = 1F 
+											标高 = 标高: 1F 
 											高度偏移 = 4000.000000 Milli Metre 
 								IfcSpace '0yzulfwGPCIw0PGeW7tJoo' '6'
 									geometry
@@ -5037,7 +5037,7 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 										'限制条件' (<description>)
 											上限 = 标高: 1F 
 											底部偏移 = 0.000000 Milli Metre 
-											标高 = 标高: 1F 
+											标高 = 1F 
 											高度偏移 = 4000.000000 Milli Metre 
 								IfcSpace '0yzulfwGPCIw0PGeW7tJno' '7'
 									geometry
@@ -5095,7 +5095,7 @@ IfcProject '0G4JCr1Qz20R2Qvg9wueTR' '项目编号'
 										'限制条件' (<description>)
 											上限 = 标高: 1F 
 											底部偏移 = 0.000000 Milli Metre 
-											标高 = 1F 
+											标高 = 标高: 1F 
 											高度偏移 = 4000.000000 Milli Metre 
 							contains
 								IfcWallStandardCase '0EShU_4vz3DgXKDW5jR6MO' '基本墙:基本墙：剪力墙:214070'
